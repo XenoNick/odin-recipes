@@ -1,4 +1,5 @@
 # odin-recipes
+Odin Recipes Project
 
     In this project i will be building a basic HTML document to display
 recipes. At the moment this project will display my understanding of
