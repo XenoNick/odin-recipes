@@ -2,12 +2,14 @@ body{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     background-color: black;
+    color: red;
 }
-.chef-image{
+img{
     height: auto;
     width: 400px;
 }
 .title{
+    color: black;
     text-shadow: red 2px 2px 10px;
 }
 .food-link, .food-link a{
@@ -20,4 +22,8 @@ body{
 }
 li{
     margin-top: 10px;
+}
+ul{
+    width: 150px;
+    margin: auto;
 }
