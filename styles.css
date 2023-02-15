@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: black;
+}
+.chef-image{
+    height: auto;
+    width: 400px;
+}
+.title{
+    text-shadow: red 2px 2px 10px;
+}
+.food-link, .food-link a{
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+.food-link a:hover{
+    color: blue;
+}
+li{
+    margin-top: 10px;
+}
